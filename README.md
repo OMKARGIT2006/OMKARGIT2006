@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @OMKARGIT2006
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I'm Omkar Kotkar
+I'm an aspiring Data Analyst currently pursuing a BSc in Computer Science at Mumbai University. I have hands-on experience in Excel, Python (Pandas, NumPy, Matplotlib, Seaborn), SQL, and Power BI.
 
-<!---
-OMKARGIT2006/OMKARGIT2006 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm currently building my skills through real-world projects like retail data analysis, Zomato dataset exploration, and forecasting trends using Excel.
+
+I’m passionate about uncovering insights from data and continuously learning new tools and techniques in the data analytics field.
